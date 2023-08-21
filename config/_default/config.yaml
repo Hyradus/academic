@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Giacomo Nodjoumi # Website name
-baseURL: 'https://hyradus.github.com'
+baseURL: 'https://hyradus.github.io'
 
 ############################
 ## LANGUAGE

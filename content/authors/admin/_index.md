@@ -22,7 +22,7 @@ organizations:
     url: https://constructor.university/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ladnform detection and mapping through Deep Learning Instance Segmentation. Subsurface Sounding Radar data analysis for subsurface mesh reconstruction.
+bio: My research interests include ladnform detection and mapping through Deep Learning Instance Segmentation. Subsurface Sounding Radar data analysis for subsurface mesh reconstruction. 
 
 # Interests to show in About widget
 interests:
@@ -65,5 +65,5 @@ email: 'giacomo.nodjoumi@hyranet.info - gnodjoumi@constructor.university'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Giacomo Nodjoumi is a PhD student of Planetary Geology at Constructor University Bremen. His research interests include landform detection through Deep Learning and Computer Vision, Subsurface Sounding Radar data analysis for mesh generation and analysis.
+Giacomo Nodjoumi is a PhD student of Planetary Geology at Constructor University Bremen. He is interested in using Deep Learning and Computer Vision to detect landforms and analyzing Subsurface Sounding Radar data for mesh generation.
 {style="text-align: justify;"}
